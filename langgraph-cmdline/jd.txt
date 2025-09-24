@@ -1,0 +1,26 @@
+Job description
+We are looking for a highly skilled and results-driven Experienced Data Scientist to be at the forefront of developing and implementing Generative AI solutions that address critical business challenges and unlock new opportunities. This individual will leverage their deep expertise in data science, machine learning, and specifically Generative AI techniques to drive impactful projects from ideation to deployment. They will develop AI & ML solutions to tackle complex business challenges and facilitate data-driven decision-making through hands-on work with large datasets and strong collaboration with cross-functional teams to deliver significant results.
+Responsibilities:
+Data Handling & Preparation: Work with diverse and large-scale datasets. Perform data cleaning, preprocessing, feature engineering, and create synthetic datasets as needed for training and evaluating Generative AI models. Ensure data quality and integrity throughout the model development lifecycle.
+Model Optimization & Deployment: Optimize Generative AI models for performance, scalability, efficiency, and responsible AI considerations (bias detection and mitigation, hallucination reduction). Collaborate with Machine Learning Engineers and DevOps teams to deploy models into production environments and establish monitoring frameworks.
+Prompt Engineering & Fine-tuning: Develop effective prompts and fine-tuning strategies for Large Language Models to achieve desired outputs and adapt models to specific domains and tasks.
+Generative AI Model Development & Implementation: Design, develop, train, fine-tune, and deploy various Generative AI models, including but not limited to Large Language Models (LLMs), diffusion models, Generative Adversarial Networks (GANs), and Variational Autoencoders (VAEs), for applications such as:
+Text generation (content creation, summarization, chatbots).
+Image and video synthesis.
+Code generation and assistance.
+Synthetic data generation and augmentation.
+Research & Innovation: Stay current with the latest research and advancements in the field of Generative AI, exploring new architectures, methodologies, and tools. Proactively identify and evaluate opportunities to apply cutting-edge Generative AI techniques to solve business problems.
+Experimentation & Evaluation: Design and execute rigorous experiments to evaluate the performance of Generative AI models using relevant metrics (e.g., BLEU, ROUGE, FID, perplexity). Analyze experimental results, identify areas for improvement, and iterate on model development based on findings.
+Collaboration & Communication: Work closely with product managers, software engineers, researchers, and business stakeholders to understand requirements, communicate technical findings, and translate complex AI concepts to non-technical audiences.
+Documentation & Knowledge Sharing: Maintain comprehensive documentation of all development processes, models, and experimental results. Share knowledge and best practices with the broader data science and engineering teams.
+Ethical AI Practices: Adhere to ethical AI principles and guidelines in the development and deployment of Generative AI models, with a focus on fairness, transparency, and accountability.
+Role: Full Stack Data Scientist
+Industry Type: IT Services & Consulting
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills

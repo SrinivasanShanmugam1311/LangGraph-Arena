@@ -1,0 +1,50 @@
+{
+    "Name": "Alexander Reddy",
+    "Email": "alexvatti@gmail.com",
+    "Phone": "+91 9566177461",
+    "Education": "Master of Science (Technology), National Institute of Technology, Warangal, India \u2014 Post Graduated: Jun 2004",
+    "Experience": [
+        {
+            "JobTitle": "Freelance Data Scientist",
+            "Company": "Upwork",
+            "Duration": "Oct 2023 \u2013 Present",
+            "Responsibilities": "Achieved a 90% Job Success Score on Upwork, delivering exceptional results in multiple ML, DL, and GenAI projects for global clients. Focused on model design, implementation, and performance optimization, providing end-to-end solutions tailored to client needs in industries such as healthcare, telecom, and chatbot development."
+        },
+        {
+            "JobTitle": "Machine Learning Engineer",
+            "Company": "Qvantel, Hyderabad",
+            "Duration": "Mar 2020 \u2013 Oct 2023",
+            "Responsibilities": "Contributed to the development of the Allegro IVD Smart Camera, integrating AI/ML/DL for diagnostic automation. Developed Linux apps, device drivers, and image pipelines using CMOS sensors. Built and deployed ML/DL models for image classification, object detection, and anomaly detection. Implemented vision features like liquid-level detection, cap classification, and barcode decoding on embedded hardware."
+        }
+    ],
+    "Skills": [
+        "Python",
+        "SQL",
+        "Git",
+        "Bash",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "TensorFlow",
+        "PyTorch",
+        "Keras",
+        "OpenCV",
+        "XGBoost",
+        "NLTK",
+        "SpaCy",
+        "Flask",
+        "Streamlit",
+        "FastAPI",
+        "Docker",
+        "AWS (EC2, S3)",
+        "Azure",
+        "Supervised & Unsupervised ML",
+        "NLP",
+        "CNN",
+        "RNN",
+        "OCR",
+        "LLMs",
+        "RAG",
+        "Chatbot"
+    ]
+}

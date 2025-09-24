@@ -1,0 +1,3 @@
+The Character Calculator is an online character counter application, which is simple and free to use.
+
+This application does not count just the number of letters in a text. Instead, it counts the total number of all characters, including spaces. Besides counting characters, it also counts the total number of words, unique words, paragraphs, and sentences. On top of all that, it gives you reading and speech time estimates.
